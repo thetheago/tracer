@@ -8,11 +8,11 @@ Run it in your bash terminal
 
 ### Bash
     https://github.com/thetheago/tracer.git && mv tracer /usr/tracer
-    echo "alias tracer='/usr/tracer'" >> ~/.bashrc
+    echo "alias tracer='/usr/tracer/tracer.sh'" >> ~/.bashrc
     source ~/.bashrc
 
 ### Zsh
     https://github.com/thetheago/tracer.git && mv tracer /usr/tracer
-    echo "alias tracer='/usr/tracer'" >> ~/.zshrc
+    echo "alias tracer='/usr/tracer/tracer.sh'" >> ~/.zshrc
     source ~/.zshrc
 
