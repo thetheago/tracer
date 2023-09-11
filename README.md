@@ -1,5 +1,8 @@
 # Tracer
-A code versioner like git made in php 8. (Not finished yet)
+```diff
+- NOT FINISHED YET
+```
+A code versioner like git made in php 8.
 
 This is a project made by a challange of Filho da Nuvem.
 
