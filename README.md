@@ -7,12 +7,12 @@ This is a project made by a challange of Filho da Nuvem.
 Run it in your bash terminal
 
 ### Bash
-    https://github.com/thetheago/tracer.git && mv tracer /usr/tracer
+    git clone https://github.com/thetheago/tracer.git && mv tracer /usr/tracer
     echo "alias tracer='/usr/tracer/tracer.sh'" >> ~/.bashrc
     source ~/.bashrc
 
 ### Zsh
-    https://github.com/thetheago/tracer.git && mv tracer /usr/tracer
+    git clone https://github.com/thetheago/tracer.git && mv tracer /usr/tracer
     echo "alias tracer='/usr/tracer/tracer.sh'" >> ~/.zshrc
     source ~/.zshrc
 
